@@ -1,0 +1,66 @@
+[
+  {
+    "id": "S01",
+    "retrieved": "2026-11-24",
+    "opened": true,
+    "retrieval_reference": "turn490040898view0",
+    "private_retrieval_response_sha256": "f1f1882d0c386d0ba2c7abf171a453d5813f21467f908df4bef5c0ec33f1fc00",
+    "public_content": "Only independently written evidence notes; not original full text."
+  },
+  {
+    "id": "S02",
+    "retrieved": "2026-11-24",
+    "opened": true,
+    "retrieval_reference": "turn443505972view0",
+    "private_retrieval_response_sha256": "3ca8134a047f8f6d66ed3d17ef7abe53ea2af8cc8b7f33d82da5a9c043852f7e",
+    "public_content": "Only independently written evidence notes; not original full text."
+  },
+  {
+    "id": "S03",
+    "retrieved": "2026-11-24",
+    "opened": true,
+    "retrieval_reference": "turn387778600view0",
+    "private_retrieval_response_sha256": "20a817031f20648d405f95feb5eb36d07e078623e00b63b3fd05df261cf1f8e3",
+    "public_content": "Only independently written evidence notes; not original full text."
+  },
+  {
+    "id": "S04",
+    "retrieved": "2026-11-24",
+    "opened": true,
+    "retrieval_reference": "turn466780396view0",
+    "private_retrieval_response_sha256": "a4c1270cbe55093f5eb66c0019637ab6e4833593c54da84fe2f92961a5b56efc",
+    "public_content": "Only independently written evidence notes; not original full text."
+  },
+  {
+    "id": "S05",
+    "retrieved": "2026-11-24",
+    "opened": true,
+    "retrieval_reference": "turn672590914view0",
+    "private_retrieval_response_sha256": "f65b920268738fee896514315a2f1a5b4f5f826c38634055efdab4f100af5422",
+    "public_content": "Only independently written evidence notes; not original full text."
+  },
+  {
+    "id": "S06",
+    "retrieved": "2026-11-24",
+    "opened": true,
+    "retrieval_reference": "turn269456374view0",
+    "private_retrieval_response_sha256": "248da873282b57295ebbdbcd4c519a77c83aa6e0dade86565826eca73d914cc2",
+    "public_content": "Only independently written evidence notes; not original full text."
+  },
+  {
+    "id": "S07",
+    "retrieved": "2026-11-24",
+    "opened": true,
+    "retrieval_reference": "turn690180536view0",
+    "private_retrieval_response_sha256": "d5a6c272b1c652993115b15793560e14a36a0e12db496c4c365ff545c0863f7e",
+    "public_content": "Only independently written evidence notes; not original full text."
+  },
+  {
+    "id": "S08",
+    "retrieved": "2026-11-24",
+    "opened": true,
+    "retrieval_reference": "turn705776265view0",
+    "private_retrieval_response_sha256": "3bca85f08a9eaccfa07ddeb1c7e2ba126f37a51429cdab67ebc787ebfbee8f4f",
+    "public_content": "Only independently written evidence notes; not original full text."
+  }
+]

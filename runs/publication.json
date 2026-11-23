@@ -1,0 +1,8 @@
+{
+  "attempted_at": "2026-11-24",
+  "status": "blocked_before_source_push",
+  "project_id": "appgprj_6b046e8fa1608191ab62dfba492dbde4",
+  "reason": "Could not resolve source repository host in this environment. No version was saved or deployed.",
+  "credential_refresh": "Completed before final attempt; no token retained.",
+  "offline_deliverable": "dist/index.html"
+}

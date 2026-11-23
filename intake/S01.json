@@ -1,0 +1,19 @@
+{
+  "id": "S01",
+  "title": "NIST Cybersecurity Framework 2.0 發布說明",
+  "publisher": "NIST",
+  "published": "2024-02-26",
+  "url": "https://www.nist.gov/news-events/news/2024/02/nist-releases-version-20-landmark-cybersecurity-framework",
+  "locator": "六項核心功能",
+  "kind": "政府概念指引",
+  "summary": "CSF 2.0 適用於各種規模與產業的組織。Govern、Identify、Protect、Detect、Respond、Recover 六項功能，提供管理資安風險的共同語言。",
+  "caveat": "六項功能可以並行；不能當成依序完成就能保證安全的清單。",
+  "tags": [
+    "治理",
+    "風險",
+    "框架",
+    "CSF"
+  ],
+  "retrieved": "2026-11-24",
+  "method": "本次對話開啟官方原始來源，由 LLM 摘要並由 LLM 依規則檢查；不重製全文。"
+}

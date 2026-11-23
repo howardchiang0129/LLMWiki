@@ -1,0 +1,161 @@
+[
+  {
+    "id": "S01",
+    "title": "NIST Cybersecurity Framework 2.0 發布說明",
+    "publisher": "NIST",
+    "published": "2024-02-26",
+    "url": "https://www.nist.gov/news-events/news/2024/02/nist-releases-version-20-landmark-cybersecurity-framework",
+    "locator": "六項核心功能",
+    "kind": "政府概念指引",
+    "summary": "CSF 2.0 適用於各種規模與產業的組織。Govern、Identify、Protect、Detect、Respond、Recover 六項功能，提供管理資安風險的共同語言。",
+    "caveat": "六項功能可以並行；不能當成依序完成就能保證安全的清單。",
+    "tags": [
+      "治理",
+      "風險",
+      "框架",
+      "CSF"
+    ],
+    "retrieved": "2026-11-24",
+    "method": "本次對話開啟官方原始來源，由 LLM 摘要並由 LLM 依規則檢查；不重製全文。"
+  },
+  {
+    "id": "S02",
+    "title": "Zero Trust Architecture，SP 800-207",
+    "publisher": "NIST",
+    "published": "2020-08-10",
+    "url": "https://www.nist.gov/publications/zero-trust-architecture",
+    "locator": "Abstract",
+    "kind": "政府技術指引",
+    "summary": "零信任不因網路位置或設備所有權而給予隱含信任。存取資源前應驗證與授權，保護重點包括使用者、資產與資源。",
+    "caveat": "零信任是架構原則，不是單一產品；不代表拒絕所有存取。",
+    "tags": [
+      "零信任",
+      "信任",
+      "存取",
+      "授權",
+      "Zero Trust"
+    ],
+    "retrieved": "2026-11-24",
+    "method": "本次對話開啟官方原始來源，由 LLM 摘要並由 LLM 依規則檢查；不重製全文。"
+  },
+  {
+    "id": "S03",
+    "title": "Implementing Phishing-Resistant MFA",
+    "publisher": "CISA",
+    "published": "2022-10",
+    "url": "https://www.cisa.gov/sites/default/files/publications/fact-sheet-implementing-phishing-resistant-mfa-508c.pdf",
+    "locator": "第 1–3 頁，MFA 與 FIDO/WebAuthn",
+    "kind": "政府實務指引",
+    "summary": "MFA 結合不同類型的驗證因素，例如知道的秘密與持有的裝置。並非所有 MFA 都同樣能抵抗釣魚；CISA 建議採用抗釣魚的驗證方式。",
+    "caveat": "MFA 降低帳密風險，不能取代裝置、權限與事件應變措施。",
+    "tags": [
+      "MFA",
+      "驗證",
+      "釣魚",
+      "帳密"
+    ],
+    "retrieved": "2026-11-24",
+    "method": "本次對話開啟官方原始來源，由 LLM 摘要並由 LLM 依規則檢查；不重製全文。"
+  },
+  {
+    "id": "S04",
+    "title": "What is EDR? Endpoint Detection & Response Defined",
+    "publisher": "CrowdStrike",
+    "published": null,
+    "url": "https://www.crowdstrike.com/en-us/cybersecurity-101/endpoint-security/endpoint-detection-and-response-edr/",
+    "locator": "EDR 定義與核心功能",
+    "kind": "供應商概念說明",
+    "summary": "EDR 透過蒐集端點活動、偵測可疑行為與支援調查及回應，協助處理電腦等裝置上的威脅。",
+    "caveat": "供應商教學文件不構成獨立產品評測；偵測與回應不等於保證阻擋所有攻擊。",
+    "tags": [
+      "端點",
+      "電腦",
+      "裝置",
+      "EDR",
+      "Endpoint"
+    ],
+    "retrieved": "2026-11-24",
+    "method": "本次對話開啟官方原始來源，由 LLM 摘要並由 LLM 依規則檢查；不重製全文。"
+  },
+  {
+    "id": "S05",
+    "title": "Identity and Access Management overview",
+    "publisher": "Okta Developer",
+    "published": null,
+    "url": "https://developer.okta.com/docs/concepts/iam-overview/",
+    "locator": "IAM overview，Workforce 與 Customer Identity",
+    "kind": "供應商技術文件",
+    "summary": "IAM 管理身分與資源存取；員工身分與顧客身分有不同使用情境。身分驗證確認使用者身分，授權決定允許的行動；MFA 可強化登入。",
+    "caveat": "登入成功不代表擁有所有權限；企業授權設計仍須依角色與資源需求決定。",
+    "tags": [
+      "身分",
+      "帳號",
+      "IAM",
+      "SSO",
+      "授權",
+      "登入"
+    ],
+    "retrieved": "2026-11-24",
+    "method": "本次對話開啟官方原始來源，由 LLM 摘要並由 LLM 依規則檢查；不重製全文。"
+  },
+  {
+    "id": "S06",
+    "title": "App-ID Overview",
+    "publisher": "Palo Alto Networks",
+    "published": null,
+    "url": "https://docs.paloaltonetworks.com/ngfw/administration/app-id/app-id-overview",
+    "locator": "App-ID 運作與加密流量條件",
+    "kind": "供應商技術文件",
+    "summary": "App-ID 使用簽章、協定解碼及啟發式方法辨識應用程式流量，協助依應用程式執行政策。文件說明 SSL／SSH 解密取決於是否配置相應解密政策。",
+    "caveat": "不能宣稱能無條件解開所有加密流量；技術能力與實際部署政策須分開。",
+    "tags": [
+      "網路",
+      "流量",
+      "防火牆",
+      "NGFW",
+      "App-ID"
+    ],
+    "retrieved": "2026-11-24",
+    "method": "本次對話開啟官方原始來源，由 LLM 摘要並由 LLM 依規則檢查；不重製全文。"
+  },
+  {
+    "id": "S07",
+    "title": "Palo Alto Networks Fiscal Q1 2027 Financial Results",
+    "publisher": "Palo Alto Networks IR",
+    "published": "2026-11-18",
+    "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-reports-fiscal-first-quarter-2027-financial",
+    "locator": "財務摘要與 Next-Generation Security ARR 定義",
+    "kind": "公司公布數據",
+    "summary": "FY2027 Q1 截至 2026-10-31，營收為 34.4 億美元，NGS ARR 為 97.3 億美元。NGS ARR 以期末有效合約的年化分配收入為基礎，排除硬體、舊有附加訂閱及支援與專業服務等項目。",
+    "caveat": "NGS ARR 的產品涵蓋範圍不同於其他公司的 ARR；不能直接視為相同口徑。",
+    "tags": [
+      "財報",
+      "營收",
+      "PANW",
+      "ARR",
+      "NGS ARR"
+    ],
+    "retrieved": "2026-11-24",
+    "method": "本次對話開啟官方原始來源，由 LLM 摘要並由 LLM 依規則檢查；不重製全文。"
+  },
+  {
+    "id": "S08",
+    "title": "CrowdStrike Second Quarter Fiscal 2027 Financial Results",
+    "publisher": "CrowdStrike IR",
+    "published": "2026-08-26",
+    "url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-reports-second-quarter-fiscal-year-2027-financial",
+    "locator": "財務摘要、ARR、現金流",
+    "kind": "公司公布數據",
+    "summary": "FY2027 Q2 截至 2026-07-31，營收為 14.7 億美元，期末 ARR 為 58.4 億美元；營運現金流為 5.303 億美元，自由現金流為 3.774 億美元。",
+    "caveat": "ARR 為期末年化經常性指標，營收與自由現金流是期間數值；不同公司計算方式須另行核對。",
+    "tags": [
+      "財報",
+      "營收",
+      "CRWD",
+      "ARR",
+      "現金流"
+    ],
+    "retrieved": "2026-11-24",
+    "method": "本次對話開啟官方原始來源，由 LLM 摘要並由 LLM 依規則檢查；不重製全文。"
+  }
+]

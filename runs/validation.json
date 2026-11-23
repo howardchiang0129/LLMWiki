@@ -1,0 +1,13 @@
+{
+  "executed_at": "2026-11-23T17:01:08.982759+00:00",
+  "source_count": 8,
+  "wiki_count": 6,
+  "slide_count": 18,
+  "all_source_references_valid": true,
+  "all_wiki_references_valid": true,
+  "all_notes_present": true,
+  "source_metadata_errors": [],
+  "retrieval_top1": "6/6",
+  "browser_qa": "未執行：此環境沒有可用的瀏覽器控制工具。",
+  "semantic_review": "LLM 依原始資料逐段核對定義、供應商敘述界線、日期及單位；非獨立人工專家審核。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "S08",
+  "title": "CrowdStrike Second Quarter Fiscal 2027 Financial Results",
+  "publisher": "CrowdStrike IR",
+  "published": "2026-08-26",
+  "url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-reports-second-quarter-fiscal-year-2027-financial",
+  "locator": "財務摘要、ARR、現金流",
+  "kind": "公司公布數據",
+  "summary": "FY2027 Q2 截至 2026-07-31，營收為 14.7 億美元，期末 ARR 為 58.4 億美元；營運現金流為 5.303 億美元，自由現金流為 3.774 億美元。",
+  "caveat": "ARR 為期末年化經常性指標，營收與自由現金流是期間數值；不同公司計算方式須另行核對。",
+  "tags": [
+    "財報",
+    "營收",
+    "CRWD",
+    "ARR",
+    "現金流"
+  ],
+  "retrieved": "2026-11-24",
+  "method": "本次對話開啟官方原始來源，由 LLM 摘要並由 LLM 依規則檢查；不重製全文。"
+}

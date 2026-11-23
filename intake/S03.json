@@ -1,0 +1,19 @@
+{
+  "id": "S03",
+  "title": "Implementing Phishing-Resistant MFA",
+  "publisher": "CISA",
+  "published": "2022-10",
+  "url": "https://www.cisa.gov/sites/default/files/publications/fact-sheet-implementing-phishing-resistant-mfa-508c.pdf",
+  "locator": "第 1–3 頁，MFA 與 FIDO/WebAuthn",
+  "kind": "政府實務指引",
+  "summary": "MFA 結合不同類型的驗證因素，例如知道的秘密與持有的裝置。並非所有 MFA 都同樣能抵抗釣魚；CISA 建議採用抗釣魚的驗證方式。",
+  "caveat": "MFA 降低帳密風險，不能取代裝置、權限與事件應變措施。",
+  "tags": [
+    "MFA",
+    "驗證",
+    "釣魚",
+    "帳密"
+  ],
+  "retrieved": "2026-11-24",
+  "method": "本次對話開啟官方原始來源，由 LLM 摘要並由 LLM 依規則檢查；不重製全文。"
+}

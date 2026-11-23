@@ -1,0 +1,20 @@
+{
+  "id": "S07",
+  "title": "Palo Alto Networks Fiscal Q1 2027 Financial Results",
+  "publisher": "Palo Alto Networks IR",
+  "published": "2026-11-18",
+  "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-reports-fiscal-first-quarter-2027-financial",
+  "locator": "財務摘要與 Next-Generation Security ARR 定義",
+  "kind": "公司公布數據",
+  "summary": "FY2027 Q1 截至 2026-10-31，營收為 34.4 億美元，NGS ARR 為 97.3 億美元。NGS ARR 以期末有效合約的年化分配收入為基礎，排除硬體、舊有附加訂閱及支援與專業服務等項目。",
+  "caveat": "NGS ARR 的產品涵蓋範圍不同於其他公司的 ARR；不能直接視為相同口徑。",
+  "tags": [
+    "財報",
+    "營收",
+    "PANW",
+    "ARR",
+    "NGS ARR"
+  ],
+  "retrieved": "2026-11-24",
+  "method": "本次對話開啟官方原始來源，由 LLM 摘要並由 LLM 依規則檢查；不重製全文。"
+}

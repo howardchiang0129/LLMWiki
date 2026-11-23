@@ -1,0 +1,50 @@
+[
+  {
+    "id": "S01",
+    "note_sha256": "55497ccfc9d1803fc1f05676b4c40329c9ba7f55bafadebdcd7585e9b6e92e8d",
+    "url": "https://www.nist.gov/news-events/news/2024/02/nist-releases-version-20-landmark-cybersecurity-framework",
+    "retrieved": "2026-11-24"
+  },
+  {
+    "id": "S02",
+    "note_sha256": "6c9819b2e23ce80722566c464f02ce159d18ac367bcf44773cd5059e53d2b348",
+    "url": "https://www.nist.gov/publications/zero-trust-architecture",
+    "retrieved": "2026-11-24"
+  },
+  {
+    "id": "S03",
+    "note_sha256": "ba8964a04f5199de416f5cb47e79abae3c342358bf1b9661a9a336a310fd9ebb",
+    "url": "https://www.cisa.gov/sites/default/files/publications/fact-sheet-implementing-phishing-resistant-mfa-508c.pdf",
+    "retrieved": "2026-11-24"
+  },
+  {
+    "id": "S04",
+    "note_sha256": "9d5d184e24121fa72c22bdf38faa4c5b625934bdc0ea44d4c5dd0a5a3500b185",
+    "url": "https://www.crowdstrike.com/en-us/cybersecurity-101/endpoint-security/endpoint-detection-and-response-edr/",
+    "retrieved": "2026-11-24"
+  },
+  {
+    "id": "S05",
+    "note_sha256": "df4480a5b185f87c222efe29f7c08e31fccf4ab8570ab634147bbb732d4fcd75",
+    "url": "https://developer.okta.com/docs/concepts/iam-overview/",
+    "retrieved": "2026-11-24"
+  },
+  {
+    "id": "S06",
+    "note_sha256": "096188915a265d184ee15f13436de39594ee559fa48cf736f5d22144585d1037",
+    "url": "https://docs.paloaltonetworks.com/ngfw/administration/app-id/app-id-overview",
+    "retrieved": "2026-11-24"
+  },
+  {
+    "id": "S07",
+    "note_sha256": "063ca58c0e478292246396a8e916440cb8e60fa9d5136df730a9049dc6420ba0",
+    "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-reports-fiscal-first-quarter-2027-financial",
+    "retrieved": "2026-11-24"
+  },
+  {
+    "id": "S08",
+    "note_sha256": "67d708a60d012de7cef875974e54dbb81ae23be66e7094b71300f9ca358da9fe",
+    "url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-reports-second-quarter-fiscal-year-2027-financial",
+    "retrieved": "2026-11-24"
+  }
+]

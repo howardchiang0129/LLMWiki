@@ -1,0 +1,20 @@
+{
+  "id": "S06",
+  "title": "App-ID Overview",
+  "publisher": "Palo Alto Networks",
+  "published": null,
+  "url": "https://docs.paloaltonetworks.com/ngfw/administration/app-id/app-id-overview",
+  "locator": "App-ID 運作與加密流量條件",
+  "kind": "供應商技術文件",
+  "summary": "App-ID 使用簽章、協定解碼及啟發式方法辨識應用程式流量，協助依應用程式執行政策。文件說明 SSL／SSH 解密取決於是否配置相應解密政策。",
+  "caveat": "不能宣稱能無條件解開所有加密流量；技術能力與實際部署政策須分開。",
+  "tags": [
+    "網路",
+    "流量",
+    "防火牆",
+    "NGFW",
+    "App-ID"
+  ],
+  "retrieved": "2026-11-24",
+  "method": "本次對話開啟官方原始來源，由 LLM 摘要並由 LLM 依規則檢查；不重製全文。"
+}

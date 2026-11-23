@@ -1,0 +1,20 @@
+{
+  "id": "S02",
+  "title": "Zero Trust Architecture，SP 800-207",
+  "publisher": "NIST",
+  "published": "2020-08-10",
+  "url": "https://www.nist.gov/publications/zero-trust-architecture",
+  "locator": "Abstract",
+  "kind": "政府技術指引",
+  "summary": "零信任不因網路位置或設備所有權而給予隱含信任。存取資源前應驗證與授權，保護重點包括使用者、資產與資源。",
+  "caveat": "零信任是架構原則，不是單一產品；不代表拒絕所有存取。",
+  "tags": [
+    "零信任",
+    "信任",
+    "存取",
+    "授權",
+    "Zero Trust"
+  ],
+  "retrieved": "2026-11-24",
+  "method": "本次對話開啟官方原始來源，由 LLM 摘要並由 LLM 依規則檢查；不重製全文。"
+}

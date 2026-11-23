@@ -1,0 +1,20 @@
+{
+  "id": "S04",
+  "title": "What is EDR? Endpoint Detection & Response Defined",
+  "publisher": "CrowdStrike",
+  "published": null,
+  "url": "https://www.crowdstrike.com/en-us/cybersecurity-101/endpoint-security/endpoint-detection-and-response-edr/",
+  "locator": "EDR 定義與核心功能",
+  "kind": "供應商概念說明",
+  "summary": "EDR 透過蒐集端點活動、偵測可疑行為與支援調查及回應，協助處理電腦等裝置上的威脅。",
+  "caveat": "供應商教學文件不構成獨立產品評測；偵測與回應不等於保證阻擋所有攻擊。",
+  "tags": [
+    "端點",
+    "電腦",
+    "裝置",
+    "EDR",
+    "Endpoint"
+  ],
+  "retrieved": "2026-11-24",
+  "method": "本次對話開啟官方原始來源，由 LLM 摘要並由 LLM 依規則檢查；不重製全文。"
+}

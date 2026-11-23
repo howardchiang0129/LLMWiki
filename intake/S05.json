@@ -1,0 +1,21 @@
+{
+  "id": "S05",
+  "title": "Identity and Access Management overview",
+  "publisher": "Okta Developer",
+  "published": null,
+  "url": "https://developer.okta.com/docs/concepts/iam-overview/",
+  "locator": "IAM overview，Workforce 與 Customer Identity",
+  "kind": "供應商技術文件",
+  "summary": "IAM 管理身分與資源存取；員工身分與顧客身分有不同使用情境。身分驗證確認使用者身分，授權決定允許的行動；MFA 可強化登入。",
+  "caveat": "登入成功不代表擁有所有權限；企業授權設計仍須依角色與資源需求決定。",
+  "tags": [
+    "身分",
+    "帳號",
+    "IAM",
+    "SSO",
+    "授權",
+    "登入"
+  ],
+  "retrieved": "2026-11-24",
+  "method": "本次對話開啟官方原始來源，由 LLM 摘要並由 LLM 依規則檢查；不重製全文。"
+}

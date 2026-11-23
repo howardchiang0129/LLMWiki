@@ -1,0 +1,121 @@
+{
+  "mode": "improved",
+  "executed_at": "2026-11-23T16:53:57.367929+00:00",
+  "source_count": 8,
+  "wiki_count": 6,
+  "metadata_errors": [],
+  "queries": [
+    {
+      "query": "員工筆電出現奇怪程式，先看哪種工具？",
+      "expected": "endpoint",
+      "results": [
+        {
+          "id": "endpoint",
+          "score": 6,
+          "sources": [
+            "S04"
+          ]
+        },
+        {
+          "id": "zero-trust",
+          "score": 1,
+          "sources": [
+            "S02",
+            "S04",
+            "S05",
+            "S06"
+          ]
+        }
+      ],
+      "top1_correct": true
+    },
+    {
+      "query": "密碼被偷，登入那關如何加強？",
+      "expected": "identity",
+      "results": [
+        {
+          "id": "identity",
+          "score": 6,
+          "sources": [
+            "S05",
+            "S03"
+          ]
+        }
+      ],
+      "top1_correct": true
+    },
+    {
+      "query": "進了公司內網，就可以直接信任嗎？",
+      "expected": "zero-trust",
+      "results": [
+        {
+          "id": "zero-trust",
+          "score": 6,
+          "sources": [
+            "S02",
+            "S04",
+            "S05",
+            "S06"
+          ]
+        },
+        {
+          "id": "metrics",
+          "score": 3,
+          "sources": [
+            "S07",
+            "S08"
+          ]
+        }
+      ],
+      "top1_correct": true
+    },
+    {
+      "query": "要怎麼看員工可以使用哪些資源？",
+      "expected": "identity",
+      "results": [
+        {
+          "id": "identity",
+          "score": 3,
+          "sources": [
+            "S05",
+            "S03"
+          ]
+        }
+      ],
+      "top1_correct": true
+    },
+    {
+      "query": "連線到不明應用時怎麼管？",
+      "expected": "network",
+      "results": [
+        {
+          "id": "network",
+          "score": 3,
+          "sources": [
+            "S06"
+          ]
+        }
+      ],
+      "top1_correct": true
+    },
+    {
+      "query": "如何從年度合約理解經常性收入？",
+      "expected": "metrics",
+      "results": [
+        {
+          "id": "metrics",
+          "score": 3,
+          "sources": [
+            "S07",
+            "S08"
+          ]
+        }
+      ],
+      "top1_correct": true
+    }
+  ],
+  "zero_hits": 0,
+  "top1_correct": 6,
+  "input_sha256": "55b7cbf17f06bb0a7330467ec4b1735ce7b62fdf5aea4eff0a451042b85fa9af",
+  "scope": "固定六題的關鍵字檢索測試，不代表完整語意搜尋品質；不檢驗事實真偽。"
+}
